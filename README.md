@@ -14,4 +14,8 @@
 
 <hr>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=instisher&show_icons=true&theme=dark&locale=en&layout=compact" alt="instisher" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=InstiSher&show_icons=true&theme=dark&locale=en&layout=compact" alt="InstiSher" /></p>
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=instisher&theme=dark"></p>
+
+<hr>
