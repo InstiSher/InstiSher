@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.fiverr.com/max_insti" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Telegram+Bots" alt="Typing SVG" /></a></p>
+<p align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Telegram+Bots" alt="Typing SVG" /></a></p>
 
 
 <hr>
